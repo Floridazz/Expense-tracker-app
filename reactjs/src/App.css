@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #002792;
+  color: #FFFFFF;
+  padding: 20px;
+}
+
+main {
+  margin-top: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"],
+button {
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+select,
+input[type="number"] {
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+
+button {
+  background-color: #0C89DC;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005B9F;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
